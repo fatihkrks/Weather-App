@@ -19,4 +19,5 @@ The API provider is http://www.OpenWeatherMap.org
 
 To Create this web application please follow the tutorial on my channel:https://youtu.be/KqZGuzrY9D4
 
-![App](index.png)
+![App](https://dosya.co/dn2nyrdgfm26/index.png.html
+)
